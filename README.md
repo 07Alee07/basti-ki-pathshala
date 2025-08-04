@@ -2,11 +2,11 @@
 
 This is a React-based responsive web application developed as part of the internship task for **Basti Ki Pathshala Foundation**. It includes:
 
-- 🌐 Home page with welcoming content
-- 🙋‍♀️ Volunteer Registration form
-- 📖 About page describing the foundation
-- 🎨 Clean and modern UI with consistent styling
-- 📱 Fully responsive for mobile and desktop
+- Home page with welcoming content
+- Volunteer Registration form
+- About page describing the foundation
+- Clean and modern UI with consistent styling
+- Fully responsive for mobile and desktop
 
 ## Tech Stack
 
@@ -19,8 +19,7 @@ This is a React-based responsive web application developed as part of the intern
 
 
 ## Live Preview
-
-
+https://github.com/07Alee07/basti-ki-pathshala
 ## Author
 
 - [@07Alee07](https://github.com/07Alee07)
