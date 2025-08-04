@@ -1,12 +1,26 @@
-# React + Vite
+# Basti Ki Pathshala - Volunteer Portal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React-based responsive web application developed as part of the internship task for **Basti Ki Pathshala Foundation**. It includes:
 
-Currently, two official plugins are available:
+- 🌐 Home page with welcoming content
+- 🙋‍♀️ Volunteer Registration form
+- 📖 About page describing the foundation
+- 🎨 Clean and modern UI with consistent styling
+- 📱 Fully responsive for mobile and desktop
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
 
-## Expanding the ESLint configuration
+- React
+- CSS (custom styling)
+- Git for version control
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Screenshots
+<img width="1831" height="744" alt="image" src="https://github.com/user-attachments/assets/ce8b9dc1-0f2f-4d7c-8184-aa77893affda" />
+
+
+## Live Preview
+
+
+## Author
+
+- [@07Alee07](https://github.com/07Alee07)
